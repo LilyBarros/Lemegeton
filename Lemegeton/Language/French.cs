@@ -17,7 +17,7 @@ namespace Lemegeton.Language
             #region 1.0.6.2
             //AddEntry("Changelog/1.0.6.2", " Added automarker for FRU P4 Crystallize Time");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CrystallizeTimeAM", "(P4) Crystallize Time automarker");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/CrystallizeTimeAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/CrystallizeTimeAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CrystallizeTimeAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CrystallizeTimeAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CrystallizeTimeAM/Signs", "Marker configuration");
@@ -35,14 +35,14 @@ namespace Lemegeton.Language
             #region 1.0.6.1
             //AddEntry("Changelog/1.0.6.1", " Added Crystallize Time indicators\n Added Ryne & Gaia HP difference indicator");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator", "(P4) Crystallize Time indicators");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/Hourglasses", "Highlight exploding hourglasses");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/Cleanses", "Highlight cleanses");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/Corner", "Highlight knockback corner");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/ExplodingHourglassColor", "Hourglass highlight color");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/CTIndicator/Test", "Test display");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DoubleTrouble", "(P4) Usurper & Oracle HP difference indicator");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/DoubleTrouble/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/DoubleTrouble/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DoubleTrouble/Area", "Overlay configuration");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DoubleTrouble/Test", "Test on self and closest enemy");
             #endregion
@@ -56,7 +56,7 @@ namespace Lemegeton.Language
             #region 1.0.5.8         
             //AddEntry("Changelog/1.0.5.8", " Added automarker for FRU P3 Ultimate Relativity\n Added automarker for FRU P3 Dark Water");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM", "(P3) Dark Water automarker");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/Signs", "Marker configuration");
@@ -71,7 +71,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/Prio", "Priority configuration");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/DarkWaterAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/UltimateRelativityAM", "(P3) Ultimate Relativity automarker");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/UltimateRelativityAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/UltimateRelativityAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/UltimateRelativityAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/UltimateRelativityAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/UltimateRelativityAM/Signs", "Marker configuration");
@@ -117,8 +117,8 @@ namespace Lemegeton.Language
             #endregion
             #region 1.0.5.3
             //AddEntry("Changelog/1.0.5.3", " Fixes to FRU P1 Fall of Faith");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM", "(P2) Light Rampant automarker");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM/Enabled", "Enabled");
+            //AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM", "(P2) Débordement de Lumière automarker");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/LightRampantAM/Signs", "Marker configuration");
@@ -136,7 +136,7 @@ namespace Lemegeton.Language
             #region 1.0.5.2
             //AddEntry("Changelog/1.0.5.2", " Added automarker for FRU P1 Fall of Faith");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/FallOfFaithAM", "(P1) Fall of Faith automarker");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/FallOfFaithAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/FallOfFaithAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/FallOfFaithAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/FallOfFaithAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltFuturesRewritten/FallOfFaithAM/Signs", "Marker configuration");            
@@ -163,10 +163,10 @@ namespace Lemegeton.Language
             #region 1.0.4.9
             //AddEntry("Changelog/1.0.4.9", " fixed automarker issues with blacklisted characters\n Dalamud API11 update");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/DrawSidewiseSpark", "(M4s) Sidewise Spark indicator");
-            //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/DrawSidewiseSpark/Enabled", "Enabled");
+            AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/DrawSidewiseSpark/Enabled", "Activé");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/DrawSidewiseSpark/HighlightColor", "Sidewise Spark indicator color");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten", "Futures Rewritten (Ultimate)");
-            //AddEntry("Content/Ultimate/UltFuturesRewritten/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltFuturesRewritten", "Avenirs réécrits (Fatal)");
+            AddEntry("Content/Ultimate/UltFuturesRewritten/Enabled", "Activé");
             #endregion
             #region 1.0.4.8
             //AddEntry("Changelog/1.0.4.8", " fixed a problem where minions could not be marked\n Radar\\Finder can now handle regular expressions as well\n added missing Kozama'uka S ranks to Radar\\Finder");
@@ -183,7 +183,7 @@ namespace Lemegeton.Language
             #region 1.0.4.5
             //AddEntry("Changelog/1.0.4.5", " added indicator for M2s Alarm Pheromones");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/Groupbees", "(M2s) Alarm Pheromones indicator");
-            //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/Groupbees/Enabled", "Enabled");
+            AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/Groupbees/Enabled", "Activé");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/Groupbees/Test", "Test through the center");
             #endregion
             #region 1.0.4.4
@@ -192,11 +192,11 @@ namespace Lemegeton.Language
             #region 1.0.4.3
             //AddEntry("Changelog/1.0.4.3", " added AM for M4s Electrical Condenser");
             //AddEntry("Content/DawntrailRaids", "Dawntrail (7.x)");
-            //AddEntry("Content/DawntrailRaids/Enabled", "Enabled");
+            AddEntry("Content/DawntrailRaids/Enabled", "Activé");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy", "AAC Light-heavyweight (7.0)");
-            //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/Enabled", "Enabled");
+            AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/Enabled", "Activé");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/CondenserAM", "(M4s) Electrical Condenser automarker");
-            //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/CondenserAM/Enabled", "Enabled");
+            AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/CondenserAM/Enabled", "Activé");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/CondenserAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/CondenserAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/DawntrailRaids/DTRaidLightHeavy/CondenserAM/Signs", "Electrical Condenser spreads");
@@ -273,11 +273,11 @@ namespace Lemegeton.Language
             #endregion
             #region 1.0.2.9
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePresentTether", "Statice Present Box tether indicator");
-            //AddEntry("Content/Criterion/EwCritAloalo/StaticePresentTether/Enabled", "Activé");
+            AddEntry("Content/Criterion/EwCritAloalo/StaticePresentTether/Enabled", "Activé");
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePresentTether/TetherColor", "Add tether color");
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePresentTether/Test", "Test random bullets on player");
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePinwheelAM", "Pinwheeling Dartboard automarker");
-            //AddEntry("Content/Criterion/EwCritAloalo/StaticePinwheelAM/Enabled", "Enabled");
+            AddEntry("Content/Criterion/EwCritAloalo/StaticePinwheelAM/Enabled", "Activé");
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePinwheelAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePinwheelAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Criterion/EwCritAloalo/StaticePinwheelAM/Signs", "Marker configuration");
@@ -299,7 +299,7 @@ namespace Lemegeton.Language
             #endregion
             #region 1.0.2.7
             //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM", "Fate Calibration α automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/Signs", "Marker configuration");
@@ -313,7 +313,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/Signs/Nothing3", "Nothing 3");
             //AddEntry("Content/Ultimate/UltAlexander/FateAlphaAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/FateBetaAM", "Fate Calibration β automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/FateBetaAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/FateBetaAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/FateBetaAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/FateBetaAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/FateBetaAM/Signs", "Marker configuration");
@@ -328,10 +328,10 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/FateBetaAM/Test", "Test random assignment");
             #endregion
             #region 1.0.2.6
-            //AddEntry("Content/Ultimate/UltAlexander", "The Epic of Alexander (Ultimate)");
-            //AddEntry("Content/Ultimate/UltAlexander/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander", "L'Odysée d'Alexander (Fatal)");
+            AddEntry("Content/Ultimate/UltAlexander/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM", "Limit Cut automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/Signs", "Marker configuration");
@@ -345,7 +345,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/Signs/Eight", "Eight");
             //AddEntry("Content/Ultimate/UltAlexander/LimitCutAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM", "Compressed Water/Lightning automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/Signs", "Marker configuration");
@@ -353,7 +353,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/Signs/Lightning", "Compressed Lightning");
             //AddEntry("Content/Ultimate/UltAlexander/WaterLightningAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/TemporalAM", "Temporal Stasis automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/TemporalAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/TemporalAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/TemporalAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/TemporalAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/TemporalAM/Signs", "Marker configuration");
@@ -368,7 +368,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/TemporalAM/Prio", "Priority configuration");
             //AddEntry("Content/Ultimate/UltAlexander/TemporalAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/CrystalAM", "Inception Crystal automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/CrystalAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/CrystalAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/CrystalAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/CrystalAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/CrystalAM/Signs", "Marker configuration");
@@ -379,7 +379,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/CrystalAM/Prio", "Priority configuration");
             //AddEntry("Content/Ultimate/UltAlexander/CrystalAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/InceptionAM", "Inception Formation automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/InceptionAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/InceptionAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/InceptionAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/InceptionAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/InceptionAM/Signs", "Marker configuration");
@@ -394,7 +394,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/InceptionAM/Prio", "Priority configuration");
             //AddEntry("Content/Ultimate/UltAlexander/InceptionAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/WormholeAM", "Wormhole automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/WormholeAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/WormholeAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/WormholeAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/WormholeAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/WormholeAM/Signs", "Marker configuration");
@@ -408,7 +408,7 @@ namespace Lemegeton.Language
             //AddEntry("Content/Ultimate/UltAlexander/WormholeAM/Signs/Eight", "Eight");
             //AddEntry("Content/Ultimate/UltAlexander/WormholeAM/Test", "Test random assignment");
             //AddEntry("Content/Ultimate/UltAlexander/FinalWordAM", "Final Word automarker");
-            //AddEntry("Content/Ultimate/UltAlexander/FinalWordAM/Enabled", "Enabled");
+            AddEntry("Content/Ultimate/UltAlexander/FinalWordAM/Enabled", "Activé");
             //AddEntry("Content/Ultimate/UltAlexander/FinalWordAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/Ultimate/UltAlexander/FinalWordAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/Ultimate/UltAlexander/FinalWordAM/Signs", "Marker configuration");
@@ -976,9 +976,9 @@ namespace Lemegeton.Language
             //AddEntry("Content/Miscellaneous/Automation/FishForever/ReleaseEverything", "Release everything");
             //AddEntry("Content/Miscellaneous/Automation/FishForever/Food", "Use food");
             //AddEntry("Content/Miscellaneous/VisualEnhancement", "Visual enhancements");
-            //AddEntry("Content/Miscellaneous/VisualEnhancement/Enabled", "Enabled");
+            AddEntry("Content/Miscellaneous/VisualEnhancement/Enabled", "Activé");
             //AddEntry("Content/Miscellaneous/VisualEnhancement/Hitbox", "Hitbox");
-            //AddEntry("Content/Miscellaneous/VisualEnhancement/Hitbox/Enabled", "Enabled");
+            AddEntry("Content/Miscellaneous/VisualEnhancement/Hitbox/Enabled", "Activé");
             //AddEntry("Content/Miscellaneous/VisualEnhancement/Hitbox/HitboxColor", "Hitbox highlight color");
             //AddEntry("Content/Miscellaneous/VisualEnhancement/Hitbox/CastColor", "Cast indicator color");
             //AddEntry("Content/Miscellaneous/VisualEnhancement/Hitbox/DrawOnEnemies", "Draw highlight on enemies");
@@ -1171,7 +1171,7 @@ namespace Lemegeton.Language
             AddEntry("Content/EndwalkerRaids/EwRaidAbyssos", "Le Purgatoire du Pandæmonium (6.2)");
             AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/Enabled", "Activé");
             //AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/InviolateAM", "(P7s) Inviolate Bonds/Purgation automarker");
-            //AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/InviolateAM/Enabled", "Enabled");
+            AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/InviolateAM/Enabled", "Activé");
             //AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/InviolateAM/SelfMarkOnly", "Self-marking only");
             //AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/InviolateAM/AsSoftmarker", "Show as client-side soft markers");
             //AddEntry("Content/EndwalkerRaids/EwRaidAbyssos/InviolateAM/Signs", "Marker configuration");
